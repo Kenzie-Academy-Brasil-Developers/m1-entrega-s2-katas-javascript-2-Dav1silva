@@ -15,7 +15,7 @@ function multiply (a,b) {
         result = add (result , a)
     }
     return result
-}console.log(multiply(4,6));
+}
 // descomente a linha seguinte para testar sua função
 console.assert(multiply(4, 6) === 24, 'A função multiply não está funcionando como esperado');
 
